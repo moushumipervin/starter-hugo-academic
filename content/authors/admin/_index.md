@@ -6,7 +6,7 @@ title: Mst Moushumi Pervin
 superuser: true
 
 # Role/position/tagline
-role: Graduate 
+role: Graduate student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,12 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Statistics: Iowa State University
+    - course: PhD in Statistics
+      institution: Iowa State University
       year: Fall, 2021-Fall, 2026 (Expected)
     - course: M.Sc. in Statistics
-      institution: Jagannath University, Bangladesh: 2017
+      institution: Jagannath University, Bangladesh
+      year: 2017
     - course: B.Sc. in Statistics
-      institution: Jagannath University, Bangladesh: 2015
+      institution: Jagannath University, Bangladesh
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
