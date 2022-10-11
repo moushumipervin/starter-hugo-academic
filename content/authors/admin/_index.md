@@ -18,7 +18,7 @@ bio: My research interests include Statistical inference, High dimensional infer
 
 # Interests to show in About widget
 interests:
-  - Statistical inference
+  - Statistical Inference
   - Machine Learning
   - High-dimensional inference
 
